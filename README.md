@@ -3,7 +3,8 @@
 
 <h2 align ="center"><a href="https://www.udemy.com/course/100-days-of-code/">The Complete Python Pro Bootcamp for 2023</a></h2>
 
-Each folder has .py files as well as links to the exercises and project via Repl.it, an online IDE that is used to complete modules which are additionally check in Coding Rooms.
+Each folder has .py files as well as links to the exercises and project via Repl.it, an online IDE that is used to complete modules.
 
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
+- Tomorrow: Understanding Data Types and How to Manipulate Strings
