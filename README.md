@@ -7,4 +7,4 @@ Each folder has .py files as well as links to the exercises and project via Repl
 
 ## 👨🏻‍🎓 Beginner
 - [Day 1](day01): Working with Variables in Python to Manage Data
-- Tomorrow: Understanding Data Types and How to Manipulate Strings
+- [Day 2](day02): Understanding Data Types and How to Manipulate Strings
