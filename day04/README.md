@@ -4,4 +4,4 @@
 - Treasure Map: https://replit.com/@itsviktoriya/day-4-exercise-3?v=1#main.py
 
 # Project - Rock Paper Scissors
-(Debugging currently)
+https://replit.com/@itsviktoriya/rock-paper-scissors-start?v=1#main.py
