@@ -6,4 +6,5 @@
 
 ## Project
 ![Hangman](hangman.gif)
+
 Challenge 5 and Finish - Improving the User Experience: https://replit.com/@itsviktoriya/Day-7-Hangman-Complete?v=1#main.py
